@@ -1,5 +1,5 @@
 {
-    "name": "illuminate/view",
+    "name": "lumphp/laravel-view",
     "description": "The Illuminate View package.",
     "license": "MIT",
     "homepage": "https://laravel.com",
@@ -16,13 +16,13 @@
     "require": {
         "php": "^7.3|^8.0",
         "ext-json": "*",
-        "illuminate/collections": "^8.0",
-        "illuminate/container": "^8.0",
-        "illuminate/contracts": "^8.0",
-        "illuminate/events": "^8.0",
-        "illuminate/filesystem": "^8.0",
-        "illuminate/macroable": "^8.0",
-        "illuminate/support": "^8.0"
+        "lumphp/laravel-collections": "^8.0",
+        "lumphp/laravel-container": "^8.0",
+        "lumphp/laravel-contracts": "^8.0",
+        "lumphp/laravel-events": "^8.0",
+        "lumphp/laravel-filesystem": "^8.0",
+        "lumphp/laravel-macroable": "^8.0",
+        "lumphp/laravel-support": "^8.0"
     },
     "autoload": {
         "psr-4": {
